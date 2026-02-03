@@ -1,6 +1,7 @@
 ﻿# Xbox 搖桿測試 Monitor
+<img width="850" height="580" alt="image" src="https://github.com/user-attachments/assets/388bcf45-5b51-4149-8166-4e0540405564" />
 
-一個使用 .NET 10 開發的 Xbox 手把即時監控程式，可視覺化顯示手把的所有按鈕、搖桿和扳機狀態。
+使用 .NET 10 開發的 Xbox 手把即時監控程式，視覺化顯示手把的所有按鈕、搖桿和扳機狀態。
 
 ## 專案架構
 
